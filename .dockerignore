@@ -1,0 +1,6 @@
+*
+!gulpfile.js
+!index.html
+!package.json
+!ts/**/*.ts
+!models/json/DigiFobPro.json
