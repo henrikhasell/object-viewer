@@ -4,7 +4,8 @@ var typescript = require('gulp-typescript')
 gulp.task('copy', function() {
     return gulp.src([
         'node_modules/three/build/three.js',
-        'node_modules/three/build/three.min.js'
+        'node_modules/three/build/three.min.js',
+        'node_modules/three-orbitcontrols/OrbitControls.js'
     ]).pipe(gulp.dest('js'));
 });
 

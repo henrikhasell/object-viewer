@@ -1,10 +1,12 @@
 {
   "dependencies": {
     "@types/node": "^9.4.6",
-    "@types/three": "^0.90.0",
-    "gulp": "latest",
-    "gulp-typescript": "latest",
+    "@types/three": "^0.89.10",
     "three": "^0.90.0",
     "typescript": "^2.7.2"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-typescript": "latest"
   }
 }
