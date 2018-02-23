@@ -4,7 +4,7 @@ Allows a 3D model to be viewed and manipulated in a web browser. Compatible with
 ```bash
 npm install
 ```
-## How to Use
+## How to Run
 ```bash
 npm install -g serve && serve
 ```
